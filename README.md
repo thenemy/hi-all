@@ -1,2 +1,2 @@
 # hi-all
-I want start programming!
+I want to start programming!
